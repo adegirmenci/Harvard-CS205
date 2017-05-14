@@ -1,0 +1,63 @@
+P = 1 :
+Serial Time: 9.138931 secs
+Parallel Time: 9.566335 secs
+Parallel Result = 3144543.496082
+Serial Result   = 3144543.496082
+Relative Error  = 0.000000e+00
+
+P = 2 :
+Serial Time: 8.993432 secs
+Parallel Time: 5.089168 secs
+Parallel Result = 3144543.496083
+Serial Result   = 3144543.496082
+Relative Error  = 2.932093e-13
+
+P = 4 :
+Serial Time: 9.053708 secs
+Parallel Time: 3.080285 secs
+Parallel Result = 3144543.496083
+Serial Result   = 3144543.496082
+Relative Error  = 2.443411e-13
+
+P = 6 :
+Serial Time: 9.311966 secs
+Parallel Time: 2.470563 secs
+Parallel Result = 3144543.496083
+Serial Result   = 3144543.496082
+Relative Error  = 2.622594e-13
+
+P = 8 :
+Serial Time: 8.931027 secs
+Parallel Time: 2.932910 secs
+Parallel Result = 3144543.496083
+Serial Result   = 3144543.496082
+Relative Error  = 2.677386e-13
+
+P = 12 :
+Serial Time: 9.120149 secs
+Parallel Time: 2.787639 secs
+Parallel Result = 3144543.496083
+Serial Result   = 3144543.496082
+Relative Error  = 2.638884e-13
+
+P = 16 :
+Serial Time: 8.932797 secs
+Parallel Time: 4.613927 secs
+Parallel Result = 3144543.496083
+Serial Result   = 3144543.496082
+Relative Error  = 2.664058e-13
+
+P = 5 : before fix
+Serial Time: 9.063656 secs
+Parallel Time: 2.690606 secs
+Parallel Result = 3144542.993819
+Serial Result   = 3144543.496082
+Relative Error  = 1.597252e-07
+***LARGE ERROR - POSSIBLE FAILURE!***
+
+P = 5 : after fix
+Serial Time: 9.466945 secs
+Parallel Time: 2.712090 secs
+Parallel Result = 3144543.496083
+Serial Result   = 3144543.496082
+Relative Error  = 2.572245e-13

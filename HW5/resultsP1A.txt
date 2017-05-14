@@ -1,0 +1,9 @@
+Processing 4000 x 2248 image
+Completed in 1200 steps
+Total GPU Time: 273.3824753838
+Energy Kernel Time: 1.9279166083
+Cumulative Energy Kernel Time: 133.9646424979
+Backtrace Kernel Time: 133.7658928608
+Cropping Kernel Time: 1.4390526383
+Data Transfer Time: 2.2849707785
+128,4 Threads, 32,562 Blocks

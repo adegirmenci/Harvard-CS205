@@ -1,0 +1,7 @@
+
+Latency To = 297.784805 usec
+Latency From = 112.473965 usec
+Bandwidth To = 8307.884282 MBPS
+Bandwidth From = 4516.147420 MBPS
+256 Threads, 1024 Blocks
+
